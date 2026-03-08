@@ -235,6 +235,7 @@
   form: Antagonist
   name: Animal Rights Consortium
   color: "#65BEDB" # sky blue
+  disabled: true # Locked per lore.
 
 - type: company
   id: Gorlex
