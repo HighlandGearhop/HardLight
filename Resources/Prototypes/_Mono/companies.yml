@@ -179,7 +179,7 @@
  - type: company
   id: GOLD
   form: Protagonist
-  name: GOlden Flotilla
+  name: Golden Flotilla
   color: "#EDA500" # Gold
   
 - type: company
