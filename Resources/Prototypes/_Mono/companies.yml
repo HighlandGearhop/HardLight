@@ -213,7 +213,7 @@
 - type: company
   id: SIN
   form: Antagonist
-  name: Solaris Intelligence Agency
+  name: Solaris Intelligence Network
   color: "#ff0000 " # Red
 
 - type: company
