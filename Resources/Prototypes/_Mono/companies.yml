@@ -214,7 +214,7 @@
   id: SIN
   form: Antagonist
   name: Solaris Intelligence Network
-  color: "#880808" # blood red
+  color: "#b80b0b" # bright blood red
 
 - type: company
   id: USSP
