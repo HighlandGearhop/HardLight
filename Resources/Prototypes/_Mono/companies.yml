@@ -169,7 +169,25 @@
   form: Protagonist
   name: Church of the Shattered Stars
   color: "#8A0303" # crimson
-  
+
+- type: company
+  id: Suburbia
+  form: Protagonist
+  name: Suburbia
+  color: "#FFEA00" 
+
+- type: company
+  id: HELGG
+  form: Protagonist
+  name: Holy Empire of the Lords Golden Grace
+  color: "#C4A23C"
+
+- type: company
+  id: TBG
+  form: Protagonist
+  name: Teds Bar Guild
+  color: "#7F5539"
+ 
 # ====Rogue / Antag. Companies====
 - type: company
   id: TheViperGroup
@@ -202,9 +220,9 @@
 - type: company
   id: SELF
   form: Antagonist
-  name: Sentient Engine Liberation Front
+  name: Silicon Engine Liberation Front
   color: "#2e0f43" # very dark purple
-  disabled: true # locked for now, until we get admin approval
+  disabled: false # relock if wanted.
 
 - type: company
   id: ARC
