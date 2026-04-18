@@ -76,6 +76,7 @@
   name: Waffle Corp
   color: "#EADDCA" # brown
 
+# ====TSF / Protag. Companies====
 - type: company
   id: Suburbia
   form: Protagonist
@@ -100,7 +101,6 @@
   name: Arcadia
   color: "#BF5454"
 
-# ====TSF / Protag. Companies====
 - type: company
   id: DarkMatterEnterprises
   form: Protagonist
