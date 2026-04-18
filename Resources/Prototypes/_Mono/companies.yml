@@ -76,13 +76,13 @@
   name: Waffle Corp
   color: "#EADDCA" # brown
 
- - type: company
+- type: company
   id: Suburbia
   form: Protagonist
   name: Suburbia
   color: "#FFEA00" 
 
- - type: company
+- type: company
   id: HELGG
   form: Protagonist
   name: Holy Empire of the Lords Golden Grace
