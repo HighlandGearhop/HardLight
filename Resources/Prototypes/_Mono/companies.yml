@@ -280,3 +280,9 @@
   name: Gorlex Marauders
   color: "#880808" # blood red
   disabled: true # locked because literally nukies
+
+- type: company
+  id: AID
+  form: Protagonist
+  name: AEGIS Initiative Division
+  color: "#B8477C" # Berry Crush
