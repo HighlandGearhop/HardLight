@@ -286,3 +286,5 @@
   form: Protagonist
   name: AEGIS Initiative Division
   color: "#B8477C" # Berry Crush
+  logins:
+  - Dhizi
