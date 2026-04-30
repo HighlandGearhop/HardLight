@@ -226,12 +226,23 @@
   logins:
   - Notarin
 
-  - type: company
-    id: CERUL
-    form: Protagonist
-    name: The Cerulean Collective
-    color: "#0009ff" # blue
-    disabled: false
+- type: company
+  id: CERUL
+  form: Protagonist
+  name: The Cerulean Collective
+  color: "#0009ff" # blue
+
+- type: company
+  id: MANA
+  form: Protagonist
+  name: The Manawa Rite
+  color: "#32ff32" # green
+
+- type: company
+  id: TMO
+  form: Protagonist
+  name: The Mantee Order
+  color: "#034efc" 
 
 # ====Rogue / Antag. Companies====
 - type: company
